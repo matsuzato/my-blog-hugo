@@ -15,13 +15,16 @@ https://themes.gohugo.io/
 ## HUGOサイトをNetlifyで公開してはまったところ
 
 1. Netlifyに載せたら、CSSが反映されない
-    - baseURLの設定が間違い
+
+    baseURLの設定が間違い
 
 2. Netlifyに載せたら、Postが反映されない
-    - .mdファイルの中でdraft: trueになってた（hugo server -Dだとドラフトも表示される）
 
-3. Netlifyに載せたら、ポストのsummarryが反映されない
-    - HUGO_VERSION = "0.70.0" をnetlify.tomlで指定
+    .mdファイルの中で`draft: true`になってた（`hugo server -D`だとドラフトも表示される）
+
+3. Netlifyに載せたら、ポストの`summarry`が反映されない
+
+    `HUGO_VERSION = "0.70.0"` を netlify.toml で指定
 
 ## システム構成
 
@@ -30,4 +33,5 @@ https://themes.gohugo.io/
 ![system](./system-hugo.svg)
 
 ## 参考
-https://knowledge.sakura.ad.jp/22908/
+- https://gohugo.io/getting-started/quick-start/
+- https://knowledge.sakura.ad.jp/22908/
