@@ -7,7 +7,7 @@ disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
-  name = "Mattun72"
+  name = "mattun72"
   bio = "寒いのが苦手。蛍石が好き。"
   avatar = "https://avatars1.githubusercontent.com/u/3007962?s=460&v=4"
 
