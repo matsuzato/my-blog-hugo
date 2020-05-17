@@ -12,7 +12,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   avatar = "https://avatars1.githubusercontent.com/u/3007962?s=460&v=4"
 
 [Params]
-  subtitle = "Just another site" # Subtitle of your site. Used in site header
+  subtitle = "お手軽に行きたい" # Subtitle of your site. Used in site header
   description = "Mattun72's Personal blog about everything" # Site description. Used in meta description
   copyright = "Mattun72" # Footer copyright holder, otherwise will use site title
 #  opengraph = true # Enable OpenGraph if true
