@@ -4,8 +4,7 @@ date: 2020-05-17T22:00:55+09:00
 slug: my-1st-post
 summary: HUGOでBLOG始めたのでご挨拶
 tags: [HUGO, Theme]
-categories: [ test ]
-draft: false
+categories: [ news ]
 ---
 
 ## HUGOでBLOG始めました
