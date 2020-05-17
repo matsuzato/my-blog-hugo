@@ -1,4 +1,4 @@
-baseURL = "https://fluoritedream.wordpress.com/"
+baseURL = "/"
 title = "Simple Blog"
 googleAnalytics = "UA-"
 theme = "github-style"
