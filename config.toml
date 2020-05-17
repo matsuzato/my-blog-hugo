@@ -1,0 +1,14 @@
+baseURL = "https://fluoritedream.wordpress.com/"
+title = "Simple Blog"
+googleAnalytics = "UA-"
+theme = "github-style"
+copyright = "© 2020. Theme by <a href=\"https://github.com/MeiK2333/github-style\"><span>github-style</span></a>"
+
+[params]
+  author = "mattun72"
+  description = "mattun72's Blog"
+#  github = "matsuzato"
+  twitter = "mattun72"
+#  email = "mmatsuzato@purelymail.com"
+  avatar = "https://avatars1.githubusercontent.com/u/3007962?s=460&v=4"
+  url = "https://fluoritedream.wordpress.com/"
