@@ -1,4 +1,4 @@
-baseURL = "https://objective-leavitt-9b5617.netlify.app/"
+baseURL = "/"
 title = "Simple Blog"
 googleAnalytics = "UA-"
 theme = "github-style"
@@ -11,4 +11,4 @@ copyright = "© 2020. Theme by <a href=\"https://github.com/MeiK2333/github-styl
   twitter = "mattun72"
 #  email = "mmatsuzato@purelymail.com"
   avatar = "https://avatars1.githubusercontent.com/u/3007962?s=460&v=4"
-  url = "https://objective-leavitt-9b5617.netlify.app/"
+  url = "https://fluoritedream.wordpress.com/"
