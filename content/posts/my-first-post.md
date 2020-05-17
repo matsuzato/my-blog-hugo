@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2020-05-17T22:00:55+09:00
-slug: my-1st-post
+slug: my-first-post
 summary: HUGOでBLOG始めたのでご挨拶
 tags: [HUGO, Theme]
 categories: [ news ]
@@ -22,6 +22,12 @@ https://themes.gohugo.io/
 
 3. Netlifyに載せたら、ポストのsummarryが反映されない
     - HUGO_VERSION = "0.70.0" をnetlify.tomlで指定
+
+## システム構成
+
+すごく大雑把にはこんな感じ？
+
+![system](./system-hugo.svg)
 
 ## 参考
 https://knowledge.sakura.ad.jp/22908/
