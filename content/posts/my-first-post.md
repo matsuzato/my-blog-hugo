@@ -20,6 +20,8 @@ https://themes.gohugo.io/
 2. Netlifyに載せたら、Postが反映されない
     - .mdファイルの中でdraft: trueになってた（hugo server -Dだとドラフトも表示される）
 
+3. Netlifyに載せたら、ポストのsummarryが反映されない
+    - HUGO_VERSION = "0.70.0" をnetlify.tomlで指定
 
 ## 参考
 https://knowledge.sakura.ad.jp/22908/
